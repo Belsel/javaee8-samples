@@ -25,7 +25,7 @@ public class PersonController {
     @Produces(MediaType.APPLICATION_JSON)
     public List<Person> getAllPeople() {
         Person person1 = new Person();
-        person1.setName("Ondrej");
+        person1.setName("Ondrejo");
         person1.setAddress("Prague");
         person1.setPin("Mihalyi");
 
