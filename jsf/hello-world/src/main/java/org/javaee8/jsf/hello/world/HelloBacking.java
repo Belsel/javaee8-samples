@@ -9,7 +9,7 @@ import javax.inject.Named;
 public class HelloBacking {
 
     public String getHello() {
-        return "Hello world, hello everybody!";
+        return "Hello world, but it has changed again!";
     }
 
 }
