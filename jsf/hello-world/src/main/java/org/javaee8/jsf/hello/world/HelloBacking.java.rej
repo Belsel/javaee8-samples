@@ -1,0 +1,9 @@
+diff a/jsf/hello-world/src/main/java/org/javaee8/jsf/hello/world/HelloBacking.java b/jsf/hello-world/src/main/java/org/javaee8/jsf/hello/world/HelloBacking.java	(rejected hunks)
+@@ -9,7 +9,6 @@
+ public class HelloBacking {
+ 
+     public String getHello() {
+-        return "Hello world, from aahshshaa somewhere!";
+         return "Hello world, leave no dwarf behind!";
+     }
+ 
